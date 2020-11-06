@@ -22,7 +22,7 @@ public class Book {
         return regNumber;
     }
 
-public void register (String regNumber){
+    public void register (String regNumber){
         this.regNumber = regNumber;
-}
+    }
 }
